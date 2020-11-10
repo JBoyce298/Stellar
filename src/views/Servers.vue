@@ -86,8 +86,8 @@ export default {
 
 	float:left;
   display: block;
-  padding: 250px;
-right:40%;
+  margin-top: 30vh;
+right: 40vh;
 position:relative;  
 width:20%;
 }
