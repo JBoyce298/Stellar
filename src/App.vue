@@ -47,16 +47,15 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-repeat:repeat;
+  background-repeat:repeat-y;
   
 }
 
 #background{
   min-height: 100vh;
-  min-width: 100vh;
+  min-width: 100vw;
 
-
-  background-color: black;
+  background-repeat:repeat-y;
 /*
   min-height: 800px;
 
@@ -66,8 +65,6 @@
 */
 
   background-color: black;
-  min-height: 720px;
-
   width:100%;
   height: 100%;
   background-position:center;
